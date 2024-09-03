@@ -1,7 +1,7 @@
 # CRUD API Development - Item (Django)
 ## Table of Contents
-- [Project Overview](#Project-Overview)
-- [Features](# Features)
+- [Project Overview](#project-overview)
+- [Features](#features)
 - [Technologies Used]()
 - [Setup Instructions]()
 - [Running the Application]()
